@@ -8,3 +8,7 @@ Visit https://www.katacoda.com/sksindia to view the profile and interactive scen
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 For examples, visit https://github.com/katacoda/scenario-example
+
+scenarios:
+1. ansible
+2. docker
